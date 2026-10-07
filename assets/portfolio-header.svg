@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+<title id="title">Hassan Ali Khan — Full-Stack Developer and AI Application Engineer</title><desc id="desc">Building useful software. Web, mobile, and applied AI. Open to full-time roles and freelance projects.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0B1523"/><stop offset="1" stop-color="#122C36"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#A8DCC8" stroke-opacity=".04"/></pattern></defs>
+<rect width="1280" height="420" rx="24" fill="url(#bg)"/><rect width="1280" height="420" rx="24" fill="url(#grid)"/>
+<path d="M0 418H1280" stroke="#8FE3BF" stroke-width="4"/>
+<g font-family="Arial, Helvetica, sans-serif"><rect x="52" y="42" width="46" height="46" rx="12" fill="#B2F0D5"/><text x="75" y="72" text-anchor="middle" font-size="22" font-weight="700" fill="#0C1C24">H.</text>
+<text x="116" y="60" font-size="15" fill="#F2F7F5" font-weight="700" letter-spacing="2">HASSAN ALI KHAN</text><text x="116" y="82" font-size="13" fill="#ABC0C3">FULL-STACK DEVELOPER &amp; AI APPLICATION ENGINEER</text>
+<text x="52" y="177" font-size="55" font-weight="700" letter-spacing="-2" fill="#F4F7F5">Building useful</text><text x="52" y="240" font-size="55" font-weight="700" letter-spacing="-2" fill="#B2F0D5">software.</text>
+<text x="55" y="282" font-size="18" fill="#B9CACE">From business workflows to web, mobile, and AI products.</text>
+<circle cx="62" cy="350" r="5" fill="#B2F0D5"/><text x="78" y="355" font-size="14" fill="#D9E5E4">OPEN TO FULL-TIME ROLES &amp; FREELANCE PROJECTS</text>
+<g transform="translate(785 92)"><rect x="0" y="0" width="384" height="236" rx="16" fill="#152A35" stroke="#35505A"/>
+<circle cx="24" cy="24" r="4" fill="#6B9295"/><circle cx="40" cy="24" r="4" fill="#6B9295"/><circle cx="56" cy="24" r="4" fill="#B2F0D5"/><path d="M0 48H384" stroke="#35505A"/><text x="24" y="82" font-size="12" fill="#9DBABD" letter-spacing="2">IDEA → PRODUCT</text>
+<path d="M65 123H168M168 123V177H285" stroke="#547980" stroke-width="2" fill="none"/><rect x="24" y="102" width="104" height="42" rx="9" fill="#25424A" stroke="#46666B"/><text x="76" y="129" text-anchor="middle" fill="#E8F4F0" font-size="14">Interface</text><rect x="196" y="102" width="160" height="42" rx="9" fill="#B2F0D5"/><text x="276" y="129" text-anchor="middle" fill="#102B2C" font-size="14" font-weight="700">Applied AI</text><path d="M128 123H196" stroke="#B2F0D5" stroke-width="2"/>
+<rect x="196" y="157" width="160" height="42" rx="9" fill="#213D46" stroke="#46666B"/><text x="276" y="184" text-anchor="middle" fill="#E8F4F0" font-size="14">APIs + Data</text>
+</g><text x="980" y="363" text-anchor="middle" fill="#78999F" font-size="12" letter-spacing="3">THOUGHTFULLY BUILT. END TO END.</text></g></svg>
